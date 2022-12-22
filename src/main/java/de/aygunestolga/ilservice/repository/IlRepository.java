@@ -1,6 +1,6 @@
-package de.ertantoker.ilservice.repository;
+package de.aygunestolga.ilservice.repository;
 
-import de.ertantoker.ilservice.model.Il;
+import de.aygunestolga.ilservice.model.Il;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.List;

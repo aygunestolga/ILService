@@ -1,9 +1,9 @@
-package de.ertantoker.ilservice.controller;
+package de.aygunestolga.ilservice.controller;
 
-import de.ertantoker.ilservice.exception.IlAlreadyExistsException;
-import de.ertantoker.ilservice.exception.IlNotFoundException;
-import de.ertantoker.ilservice.model.Il;
-import de.ertantoker.ilservice.service.IlService;
+import de.aygunestolga.ilservice.exception.IlNotFoundException;
+import de.aygunestolga.ilservice.exception.IlAlreadyExistsException;
+import de.aygunestolga.ilservice.model.Il;
+import de.aygunestolga.ilservice.service.IlService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

@@ -1,4 +1,4 @@
-package de.ertantoker.ilservice.exception;
+package de.aygunestolga.ilservice.exception;
 
 public class IlAlreadyExistsException extends RuntimeException {
     public IlAlreadyExistsException(String msg) {

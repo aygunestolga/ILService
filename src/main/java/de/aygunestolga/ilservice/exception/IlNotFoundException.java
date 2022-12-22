@@ -1,4 +1,4 @@
-package de.ertantoker.ilservice.exception;
+package de.aygunestolga.ilservice.exception;
 
 public class IlNotFoundException extends RuntimeException{
     public IlNotFoundException(String msg) {

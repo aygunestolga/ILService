@@ -1,4 +1,4 @@
-package de.ertantoker.ilservice;
+package de.aygunestolga.ilservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package de.ertantoker.ilservice.model;
+package de.aygunestolga.ilservice.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

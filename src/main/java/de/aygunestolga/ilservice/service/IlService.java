@@ -1,9 +1,9 @@
-package de.ertantoker.ilservice.service;
+package de.aygunestolga.ilservice.service;
 
-import de.ertantoker.ilservice.exception.IlAlreadyExistsException;
-import de.ertantoker.ilservice.exception.IlNotFoundException;
-import de.ertantoker.ilservice.model.Il;
-import de.ertantoker.ilservice.repository.IlRepository;
+import de.aygunestolga.ilservice.exception.IlNotFoundException;
+import de.aygunestolga.ilservice.repository.IlRepository;
+import de.aygunestolga.ilservice.exception.IlAlreadyExistsException;
+import de.aygunestolga.ilservice.model.Il;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
